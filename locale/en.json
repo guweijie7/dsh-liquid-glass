@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Liquid glass",
+    "description": "A floating glass skin for the DSH web UI: a slowly drifting deep-sea background (or your own image wallpaper), with the sidebar, the conversation header and the composer as one frosted-glass family — translucent fill, hairline border, lit rim, drop shadow, and a specular highlight on the composer that follows the pointer. Settings › Plugins › Liquid glass adjusts blur, frost, background type and brightness, wallpaper blur/frost, and toggles the particle whale and page-edge fades; settings stay in this browser. Client-side only: no behaviour changes, no session data, no requests, and the switch restores the stock interface. The desktop caption strip keeps its stock look because the window buttons are painted by the system.",
+    "detail": "docs/DETAIL.md"
+  }
+}
