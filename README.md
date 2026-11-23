@@ -12,6 +12,13 @@ Style only. The bundle injects a stylesheet and a few decorative layers into the
 page; it changes no behaviour, reads no session data, makes no network requests,
 and turning it off restores the stock interface exactly.
 
+## Screenshot
+
+The settings page and dialog in the DSH desktop build (light theme); the
+wallpaper thumbnail is pixelated on purpose:
+
+![Settings page and dialog](docs/screenshots/settings.jpg)
+
 ## Features
 
 - **Living background** — three slowly drifting colour fields over a deep base,
